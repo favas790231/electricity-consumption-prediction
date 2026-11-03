@@ -130,8 +130,4 @@ This project demonstrates how regression algorithms can be applied to electricit
 
 Polynomial Regression with Degree 3 achieved the best test performance among the evaluated models.
 
----
 
-**Project Type:** Machine Learning – Regression
-
-**Repository:** `electricity-consumption-prediction`
