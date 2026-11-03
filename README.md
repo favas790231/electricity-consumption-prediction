@@ -119,7 +119,6 @@ electricity-consumption-prediction/
 │   ├── correlation-heatmap.png
 │   └── model-performance-comparison.png
 │
-├── electricity_weather.csv
 ├── electricity_weather_poly_reg_final.ipynb
 └── README.md
 ```
